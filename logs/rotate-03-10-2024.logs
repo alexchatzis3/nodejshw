@@ -1,0 +1,78 @@
+{
+  message: 'success in reading all users',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: '03-10-2024 18:57:11'
+}
+{
+  message: 'success in reading all users',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: '03-10-2024 19:00:16'
+}
+{
+  message: 'Error in reading all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '03-10-2024 19:00:16'
+}
+{
+  message: 'success in reading all users',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: '03-10-2024 19:02:09'
+}
+{
+  message: 'Error in reading all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '03-10-2024 19:02:09'
+}
+{
+  message: 'Error in reading all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '03-10-2024 19:04:14'
+}
+{
+  message: 'Error in reading all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '03-10-2024 19:06:59'
+}
+{
+  message: 'Error in reading all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '03-10-2024 19:10:44'
+}
+{
+  message: 'Error in reading all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '03-10-2024 19:11:37'
+}
+{
+  message: 'Error in reading all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '03-10-2024 19:25:18'
+}
+{
+  message: 'Error in reading all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '03-10-2024 19:27:09'
+}
+{
+  message: 'Error in reading all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '03-10-2024 19:31:44'
+}
+{
+  message: 'Error in reading all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '03-10-2024 19:38:12'
+}
