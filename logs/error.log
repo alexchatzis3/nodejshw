@@ -34,3 +34,33 @@
   label: 'winston custom format',
   timestamp: '03-10-2024 19:38:12'
 }
+{
+  message: 'Error in reading all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '04-10-2024 10:05:55'
+}
+{
+  message: 'Error in reading all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '04-10-2024 10:07:17'
+}
+{
+  message: 'Error in reading all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '04-10-2024 10:18:22'
+}
+{
+  message: 'Error in reading all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '04-10-2024 10:23:54'
+}
+{
+  message: 'Error in reading all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '04-10-2024 10:53:18'
+}

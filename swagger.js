@@ -335,7 +335,8 @@ exports.options = {
                         }
                     }
                 }
-            }, "post": {
+            }, 
+            "post": {
                 "tags": ["Products"],
                 "description": "Creates new product",
                 "requestBody": {
